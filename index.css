@@ -34,7 +34,7 @@ h1{
 #footer{
   position: fixed;
   bottom: 0;
-  padding: 0 2em;
+  padding: 2em 0;
   font-size: 12px;
   text-align: center;
   width: 100%;
