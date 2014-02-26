@@ -11,7 +11,7 @@
     "64G-golden":0,
     "128G-white":0,
     "128G-black":0,
-    "128G-golden":0,
+    "128G-golden":0
   },
   "iPhone 5C":{
     "16G-white":0,
@@ -25,7 +25,7 @@
     "64G-golden":0,
     "128G-white":0,
     "128G-black":0,
-    "128G-golden":0,
+    "128G-golden":0
   },
   "iPad Air":{
     "wifi-16G-white":0,
@@ -43,7 +43,7 @@
     "wifi+4G(LTE)-64G-white":0,
     "wifi+4G(LTE)-64G-black":0,
     "wifi+4G(LTE)-128G-white":0,
-    "wifi+4G(LTE)-128G-black":0,
+    "wifi+4G(LTE)-128G-black":0
   },
   "iPad mini(2) with retina":{
     "wifi-16G-white":0,
@@ -61,7 +61,7 @@
     "wifi+4G(LTE)-64G-white":0,
     "wifi+4G(LTE)-64G-black":0,
     "wifi+4G(LTE)-128G-white":0,
-    "wifi+4G(LTE)-128G-black":0,
+    "wifi+4G(LTE)-128G-black":0
   },
   "iPad mini(1)":{
     "wifi-16G-white":0,
@@ -79,6 +79,6 @@
     "wifi+4G(LTE)-64G-white":0,
     "wifi+4G(LTE)-64G-black":0,
     "wifi+4G(LTE)-128G-white":0,
-    "wifi+4G(LTE)-128G-black":0,
+    "wifi+4G(LTE)-128G-black":0
   } 
 }
