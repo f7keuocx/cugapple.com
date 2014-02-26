@@ -24,6 +24,12 @@ h1{
   margin-bottom: 8em;
 }
 
+#priceArea ul li em{
+  font-style: normal;
+  font-weight: bold;
+  color: #6295F7;
+}
+
 #footer{
   position: fixed;
   bottom: 0;
