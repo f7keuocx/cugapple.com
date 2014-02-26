@@ -1,5 +1,5 @@
 (function($){
-	
+$(function(){	
 	var $priceArea = $('#priceArea');
 
 	$.getJSON('/price.json').done(function(data){
@@ -25,4 +25,5 @@
 
 	});
 
+});
 })(jQuery);
