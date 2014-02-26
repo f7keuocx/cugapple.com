@@ -2,3 +2,34 @@
   margin:0;
   padding:0;
 }
+
+h1{
+  background: #eee;
+  font-size: 24px;
+  padding: 2em;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#priceArea{
+  padding: 3em;
+}
+
+#priceArea ul{
+  width: 320px;
+  margin: 0 auto;
+  font-size: 14px;
+  line-height: 2em;
+  list-style: none;
+  margin-bottom: 8em;
+}
+
+#footer{
+  position: fixed;
+  bottom: 0;
+  padding: 2em;
+  font-size: 12px;
+  text-align: center;
+  width: 100%;
+  background: #eee;
+}
