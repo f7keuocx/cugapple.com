@@ -10,7 +10,7 @@ $(function(){
 			if(data.hasOwnProperty(product)){
 				for(var model in data[product]){
 					if(data[product].hasOwnProperty(model) && data[product][model]){
-						html += '<li>' + model + ':￥' + data[product][model] + '</li>';
+						html += '<li><em>' + product + '<em>' +  model + ':￥' + data[product][model] + '</li>';
 					}
 				}
 			}
