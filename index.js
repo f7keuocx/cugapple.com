@@ -7,10 +7,10 @@ $(function(){
 		var html = '<ul>';
 
 		for(var product in data){
-			if(product.hasOwnProperty(product)){
-				for(var model in product){
-					if(product.hasOwnProperty(model) && product[model]){
-						html += '<li>' + model + ':￥' + product[model] + '</li>';
+			if(data.hasOwnProperty(product)){
+				for(var model in data[product]){
+					if(data[product].hasOwnProperty(model) && data[product][model]){
+						html += '<li>' + model + ':￥' + data[product][model] + '</li>';
 					}
 				}
 			}
