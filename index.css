@@ -16,8 +16,9 @@ h1{
 }
 
 #priceArea ul{
-  width: 320px;
-  margin: 0 auto;
+  /*width: 320px;*/
+  /*margin: 0 auto;*/
+  text-align:center;
   font-size: 14px;
   line-height: 2em;
   list-style: none;
