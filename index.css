@@ -2,7 +2,9 @@
   margin:0;
   padding:0;
 }
-
+ul{
+    list-style:none;
+}
 h1{
   background: #eee;
   font-size: 24px;
@@ -13,22 +15,35 @@ h1{
 
 #priceArea{
   padding: 3em 0;
+  margin-bottom:8em;
 }
 
-#priceArea ul{
-  /*width: 320px;*/
-  /*margin: 0 auto;*/
-  text-align:center;
+#priceArea ul li.product{
   font-size: 14px;
   line-height: 2em;
   list-style: none;
-  margin-bottom: 8em;
+  margin-bottom: 2em;
+  display:inline-block;
+  min-width:240px;
+  vertical-align:top;
 }
-
-#priceArea ul li em{
+#priceArea ul li.product h3{
   font-style: normal;
   font-weight: bold;
   color: #6295F7;
+  border-left:3px solid #6295F7;
+  text-align:left;
+  margin-left:3em;
+  padding-left:1em;
+}
+#priceArea ul li.product ul.modelList{
+    margin-left:8em;
+}
+#priceArea ul li.product ul.modelList li{
+    
+}
+#priceArea ul li.product ul.modelList li .price{
+    color:red;
 }
 
 #footer{
