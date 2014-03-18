@@ -26,24 +26,24 @@
     "32G-yellow":3800
   },
     "iPhone 5C 国行":{
-    "16G-blue":3640,
-    "16G-white":3560,
-    "16G-pink":3560,
+    "16G-blue":3610,
+    "16G-white":3550,
+    "16G-pink":3550,
     "16G-green":3580,
     "16G-yellow":0,
-    "32G-blue":0,
+    "32G-blue":3790,
     "32G-white":0,
-    "32G-pink":0,
+    "32G-pink":3790,
     "32G-green":0,
-    "32G-yellow":0
+    "32G-yellow":3790
   },
   "iPad Air":{
     "wifi-16G-white":3280,
     "wifi-16G-black":3280,
     "wifi-32G-white":3840,
     "wifi-32G-black":3820,
-    "wifi-64G-white":4630,
-    "wifi-64G-black":4580,
+    "wifi-64G-white":0,
+    "wifi-64G-black":4610,
     "wifi-128G-white":5160,
     "wifi-128G-black":5160,
     "wifi+4G(LTE)-16G-white":4120,
@@ -60,8 +60,8 @@
     "wifi-16G-black":2700,
     "wifi-32G-white":3340,
     "wifi-32G-black":3350,
-    "wifi-64G-white":3980,
-    "wifi-64G-black":3950,
+    "wifi-64G-white":3960,
+    "wifi-64G-black":3960,
     "wifi-128G-white":4500,
     "wifi-128G-black":4500,
     "wifi+4G(LTE)-16G-white":3480,
@@ -71,7 +71,7 @@
     "wifi+4G(LTE)-64G-white":4750,
     "wifi+4G(LTE)-64G-black":4720,
     "wifi+4G(LTE)-128G-white":5330,
-    "wifi+4G(LTE)-128G-black":5350
+    "wifi+4G(LTE)-128G-black":5330
   },
   "iPad mini(1)":{
     "wifi-16G-white":0,
